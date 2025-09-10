@@ -7,7 +7,7 @@
   {
     "host": "Jamie",
     "type": "interjection",
-    "text": "Uh-huh!"
+    "text": "Uh-huh, love it."
   },
   {
     "host": "Alex",
@@ -22,72 +22,152 @@
   {
     "host": "Alex",
     "type": "interjection",
-    "text": "yep, Exactly."
-  },
-  {
-    "host": "Jamie",
-    "type": "speaking",
-    "text": "Gallo was founded back in 1933 by brothers Ernest and Julio Gallo, right after Prohibition ended. They started in Modesto, California, basically with borrowed equipment and a lot of hustle."
-  },
-  {
-    "host": "Alex",
-    "type": "speaking",
-    "text": "And fast forward to now, Gallo is huge. We’re talking the largest family-owned winery in the world. They produce everything from everyday table wines to premium labels, and they even have spirits in their portfolio."
-  },
-  {
-    "host": "Jamie",
-    "type": "interjection",
-    "text": "Started from nothing, yeah."
-  },
-  {
-    "host": "Alex",
-    "type": "speaking",
-    "text": "What’s wild is how much they shaped how Americans drink wine. Back in the 20th century, they were one of the first to market wine in a way that felt accessible—TV ads, billboards, catchy jingles. They weren’t just selling bottles; they were selling the idea that wine could be part of everyday life."
-  },
-  {
-    "host": "Jamie",
-    "type": "speaking",
-    "text": "And you can’t talk about Gallo without mentioning Modesto. For decades, the company has been the city’s economic heartbeat, employing thousands of people. If you live in the Central Valley, chances are you know someone who’s worked at Gallo."
-  },
-  {
-    "host": "Alex",
-    "type": "interjection",
-    "text": "Oh, for sure."
-  },
-  {
-    "host": "Jamie",
-    "type": "speaking",
-    "text": "They’ve also been innovators. Think about boxed wine, screw caps, affordable jug wines—they embraced things the rest of the industry sometimes looked down on, but those moves made wine approachable for millions of people."
-  },
-  {
-    "host": "Alex",
-    "type": "speaking",
-    "text": "And on the flip side, they’ve invested in luxury brands too—labels like Orin Swift, Louis M. Martini, and Talbott Vineyards. It’s not just jug wine anymore; they’ve got bottles for collectors and sommeliers."
-  },
-  {
-    "host": "Jamie",
-    "type": "interjection",
-    "text": "Yeah, big range."
-  },
-  {
-    "host": "Alex",
-    "type": "speaking",
-    "text": "What I find really interesting is that it’s still family-run. Four generations later, the Gallos remain at the helm. That’s rare for a business of this size."
-  },
-  {
-    "host": "Jamie",
-    "type": "speaking",
-    "text": "And beyond business, they’ve built a reputation for sustainability—vineyard conservation, water management, renewable energy. They know the wine industry depends on taking care of the land."
-  },
-  {
-    "host": "Alex",
-    "type": "interjection",
     "text": "Exactly."
   },
   {
     "host": "Jamie",
     "type": "speaking",
+    "text": "Gallo was founded back in 1933 by brothers Ernest and Julio Gallo, right after Prohibition ended."
+  },
+  {
+    "host": "Alex",
+    "type": "interjection",
+    "text": "Right after the ban lifted, yeah."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "They started in Modesto, California, basically with borrowed equipment and a lot of hustle."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "And fast forward to now, Gallo is huge."
+  },
+  {
+    "host": "Jamie",
+    "type": "interjection",
+    "text": "The biggest, really."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "We’re talking the largest family-owned winery in the world. They produce everything from everyday table wines to premium labels."
+  },
+  {
+    "host": "Jamie",
+    "type": "interjection",
+    "text": "And don’t forget spirits!"
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "Right, even spirits are in their portfolio."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "What’s wild is how much they shaped how Americans drink wine. Back in the 20th century, they were one of the first to market wine in a way that felt accessible—TV ads, billboards, catchy jingles."
+  },
+  {
+    "host": "Alex",
+    "type": "interjection",
+    "text": "They made it fun, not intimidating."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "They weren’t just selling bottles; they were selling the idea that wine could be part of everyday life."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "And you can’t talk about Gallo without mentioning Modesto."
+  },
+  {
+    "host": "Jamie",
+    "type": "interjection",
+    "text": "The hometown pride."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "For decades, the company has been the city’s economic heartbeat, employing thousands of people."
+  },
+  {
+    "host": "Jamie",
+    "type": "interjection",
+    "text": "Everyone knows someone who worked there."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "Exactly. If you live in the Central Valley, chances are you’ve got a Gallo connection."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "They’ve also been innovators. Think about boxed wine, screw caps, affordable jug wines—"
+  },
+  {
+    "host": "Alex",
+    "type": "interjection",
+    "text": "Stuff others turned their nose up at."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "Right, but those moves made wine approachable for millions of people."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "And on the flip side, they’ve invested in luxury brands too—labels like Orin Swift, Louis M. Martini, and Talbott Vineyards."
+  },
+  {
+    "host": "Jamie",
+    "type": "interjection",
+    "text": "So not just jug wine anymore."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
+    "text": "Exactly, they’ve got bottles for collectors and sommeliers."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "What I find really interesting is that it’s still family-run. Four generations later, the Gallos remain at the helm."
+  },
+  {
+    "host": "Alex",
+    "type": "interjection",
+    "text": "That’s rare these days."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "And beyond business, they’ve built a reputation for sustainability—vineyard conservation, water management, renewable energy."
+  },
+  {
+    "host": "Alex",
+    "type": "interjection",
+    "text": "Taking care of the land that takes care of them."
+  },
+  {
+    "host": "Jamie",
+    "type": "speaking",
+    "text": "Exactly. They know the wine industry depends on it."
+  },
+  {
+    "host": "Alex",
+    "type": "speaking",
     "text": "So whether it’s a $5 bottle of Barefoot or a $100 single-vineyard cabernet, there’s a decent chance you’re drinking something connected to Gallo."
+  },
+  {
+    "host": "Jamie",
+    "type": "interjection",
+    "text": "Yep, absolutely."
   },
   {
     "host": "Alex",
